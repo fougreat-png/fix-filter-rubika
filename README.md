@@ -14,7 +14,7 @@
 
 ## کلون کردن (Clone) مخزن:
 
-* `git clone https://github.com/dmnhzckerreal/fix-filter-rubika`
+* `git clone https://github.com/dmnhackerreal/fix-filter-rubika`
 
 
 ## ورود به پوشه ابزار:
