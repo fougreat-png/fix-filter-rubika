@@ -66,7 +66,8 @@ banner = """
 
 █▀▀ █ ▀▄▀   █▀▀ █ █░░ ▀█▀ █▀▀ █▀█   █▀█ █░█ █▄▄ █ █▄▀ ▄▀█
 █▀░ █ █░█   █▀░ █ █▄▄ ░█░ ██▄ █▀▄   █▀▄ █▄█ █▄█ █ █░█ █▀█ v1.2
-"""
+programing by DMNHACKER 
+supports rubika 3.9.4 version"""
 for bnr in banner:
     sys.stdout.write(bnr)
     sys.stdout.flush()
